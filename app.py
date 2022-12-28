@@ -3,9 +3,6 @@
 import streamlit as st
 import pandas as pd
 
-import os
-print(os.getcwd())
-
 path = "C://Users//USER//Desktop//Computer Practice//Excel Web Application"
 file_name = "World-Happiness-Report-2022.csv"
 df = pd.read_csv(f"{path}{file_name}")
