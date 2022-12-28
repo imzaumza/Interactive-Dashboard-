@@ -1,7 +1,12 @@
+import os
+os.getcwd()
+os.chdir("C:\\Users\\USER\\Desktop\\Computer Practice\\Excel Web Application\\")
+
 import streamlit as st
 import pandas as pd
 
-df = pd.read_csv('C:\\Users\\USER\\Desktop\\Computer Practice\\Excel Web Application\\World-Happiness-Report-2022.csv')
+
+df = pd.read_csv("World-Happiness-Report-2022.csv")
 df.head()
 
 
