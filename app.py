@@ -4,7 +4,7 @@ import streamlit as st
 import pandas as pd
 
 
-df = pd.read_csv(r"C:\Users\USER\Desktop\Computer Practice\Excel Web Application\World-Happiness-Report-2022")
+df = pd.read_csv(r"C:\Users\USER\Desktop\Computer Practice\Excel Web Application\World-Happiness-Report-2022.csv")
 df.head()
 
 
