@@ -11,3 +11,6 @@ While a data science project requires the implementation of a front-end user int
 Data sharing with Excel initiatives and data science projects are made incredibly tedious and boring by these issues.
 
 https://drive.google.com/file/d/1NUte1PZW1i_43f2DY7PNkbO0_7LszRJZ/view?usp=share_link
+
+![a](https://user-images.githubusercontent.com/59840966/209794785-f1bd1a5d-372d-4fe3-9b3d-9748b6a775cc.png)
+![Happiness report](https://user-images.githubusercontent.com/59840966/209794810-5fa76c36-ef1a-4589-9a18-3d4642833c31.png)
